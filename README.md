@@ -3,5 +3,4 @@ A simple boiler plate which allows the use of BabelJS in a NodeJS server bundled
 
 ## To run
 
-```npm install```
-```npm run webpack```
+```npm install && npm run webpack```
